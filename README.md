@@ -1,6 +1,10 @@
 # Window of the World 🌍
 
+> Flybit 使用推荐｜按流量代理｜Clash / Mihomo / Shadowrocket｜ChatGPT / Claude / GitHub 海外开发访问
+
 分享一些我自己使用或关注的海外网络工具，主要面向 **AI、GitHub、开发者服务和海外技术资料访问**场景。
+
+如果你正在搜索 **Flybit、Flybit 机场、Flybit 怎么样、按流量机场、Clash 订阅、Mihomo 节点、Shadowrocket 节点、ChatGPT 节点、Claude 节点**，这个仓库主要记录我的实际选择思路和使用建议。
 
 ## Flybit 推荐
 
@@ -138,6 +142,24 @@ hkLuXtWf
 
 因此建议始终准备至少一条备用线路。
 
+## 常见问题
+
+### Flybit 适合 ChatGPT 和 Claude 吗？
+
+可以作为 AI 工具访问方案之一，但实际可用性取决于节点 IP、目标服务的地区策略以及实时风控。建议先用小流量套餐测试自己常用的 ChatGPT、Claude、Gemini 等服务。
+
+### Flybit 可以配合 Clash / Mihomo 吗？
+
+这类订阅通常用于兼容 Clash / Mihomo 生态的客户端。不同平台建议使用当前仍维护的客户端，并在导入订阅前核对订阅格式。
+
+### 为什么我更推荐按流量购买？
+
+如果你主要是写代码、查文档、使用 ChatGPT / Claude，而不是长期观看 4K 视频，实际消耗的流量通常没有想象中高。按流量购买可以减少“每月不用也要续费”的浪费。
+
+### 要不要一次买很多流量？
+
+不建议。线路质量和服务运营状态都会变化，更稳妥的方式是先小额购买、测试晚高峰和常用服务，再逐步增加。
+
 ## 安全建议
 
 代理节点本质上位于你的设备和目标网站之间。
@@ -160,6 +182,10 @@ Flybit 这种按流量模式比较适合：
 - 流量使用量不大的人；
 - 不希望月付流量清零的人；
 - Clash / Mihomo / Shadowrocket 用户。
+
+## Keywords
+
+`Flybit` `Flybit机场` `Flybit推荐` `Flybit怎么样` `按流量机场` `不限时流量` `Clash` `Clash Verge` `Mihomo` `Shadowrocket` `Surge` `ChatGPT` `Claude` `Claude Code` `GitHub` `Google` `AI工具`
 
 ---
 
