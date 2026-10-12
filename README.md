@@ -1,6 +1,6 @@
-# [Flybit 注册入口｜支持按流量购买](https://www.fastfastfast.best/#/register?code=hkLuXtWf)
+# [Flybit 注册 / Sign up｜支持按流量购买](https://www.fastfastfast.best/#/register?code=hkLuXtWf)
 
-**按需购买流量包，适合流量需求不固定的用户。**
+**按需购买流量包 · Traffic-based proxy data packages.**
 
 简体中文 · [English](README.en.md)
 
